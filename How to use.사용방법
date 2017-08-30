@@ -1,0 +1,49 @@
+SOSORPG  사용방법은 다음과 같다
+
+다음ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+.명령어
+직업 취직 괸련 명령어
+/취직 하기 <직업이름>
+
+/탈퇴권 구매
+탈퇴 구매권을 구매하는 명령입니다
+
+..;. 귀찮아서 영어로
+
+
+
+English version How to use!
+
+Commands.---------
+/Job join <JobName>
+Job subscription command
+
+/Job secession
+Pay a certain amount and leave the job.
+
+/stat STR
+STR stat Up
+
+/stat DEF
+DEF stat Up
+
+/stat all STR
+STR all up
+
+/stat all DEF
+DEF all up
+
+//developing.....
+UIShop
+UILogin
+//End
+
+For PocketMain-MP developers
+
+Hello? I'm Korea developers
+Please don't API Version change.
+Too many.! Ok? It's hard!!!!!!
+
+Please change the API version if you know
+
+
